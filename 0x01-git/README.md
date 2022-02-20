@@ -1,1 +1,1 @@
-Not empty
+This is my ALX course project.
